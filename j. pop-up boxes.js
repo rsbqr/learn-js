@@ -4,7 +4,7 @@ menampilkan pesan di layar
 
 console.log("pop up ini tidak bisa di run dengan node karena perlu scripting html")
 
-//confirm("Ini jenis popup konfirmasi (confirm)");
+confirm("Ini jenis popup konfirmasi (confirm)");
 //prompt("ini jenis popup prompt");
 //alert("woi");
 
