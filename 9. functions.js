@@ -20,3 +20,10 @@ var salam = function(name) //namun fungsi diakses dengan variabel
 /*hampir sama dengan yg diatas namun 
 nama variabelnya dipakai untuk panggil parameternya*/
 console.log(salam("Mblo"));
+
+//latihan
+console.log("\n latihan")
+function dikaliLima(angka){
+    return angka * 5
+}
+console.log("ini hasilnya "+dikaliLima(3));
