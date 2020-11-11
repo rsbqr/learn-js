@@ -6,7 +6,7 @@ console.log("pop up ini tidak bisa di run dengan node karena perlu scripting htm
 
 //confirm("Ini jenis popup konfirmasi (confirm)");
 //prompt("ini jenis popup prompt");
-alert("woi");
+//alert("woi");
 
 console.log("cek line yang ada di bawah untuk menyalin script tsb kemudian save dengan ekstensi html")
 /*
