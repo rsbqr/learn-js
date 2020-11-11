@@ -1,6 +1,6 @@
 /*#8 objects
-javascript menggunakan untuk berorientasi objek menggunakan fungsi dan objek, 
-objek biasanya digunakan sebagai struktur data
+javascript menggunakan untuk berorientasi objek menggunakan 
+fungsi dan objek, objek biasanya digunakan sebagai struktur data
 */
 
 //ini fungsi dengan objek
