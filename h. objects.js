@@ -1,9 +1,9 @@
 /*#8 objects
-javascrip menggunakan untuk berorientasi objek menggunakan fungsi dan objek, 
+javascript menggunakan untuk berorientasi objek menggunakan fungsi dan objek, 
 objek biasanya digunakan sebagai struktur data
 */
 
-//ini fungsi dengan objek didalamnya
+//ini fungsi dengan objek
 var objekOrang = {
     namaDepan : "John", //objek 1
     namaBelakang : "Cena" //objek 2
