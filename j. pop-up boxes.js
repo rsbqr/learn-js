@@ -8,7 +8,7 @@ console.log("pop up ini tidak bisa di run dengan node karena perlu scripting htm
 //prompt("ini jenis popup prompt");
 //alert("woi");
 
-console.log("cek line yang ada di bawah untuk menyalin script tsb kemudian save dengan ekstensi html"
+console.log("cek line yang ada di bawah untuk menyalin script tsb kemudian save dengan ekstensi html")
 /*
 <!DOCTYPE html>
 <html lang="en">
